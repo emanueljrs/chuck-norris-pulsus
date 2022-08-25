@@ -9,6 +9,8 @@ Api utilizada
 ## Tecnologias:
 * Kotlin
 * ViewBinding
+* ViewModel
+* LiveData
 * Navigation
 * Retrofit
 * Coroutines
