@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Pulsus Norris</string>
     <string name="chuck_norris_api_title">Chuck Norris Api</string>
@@ -15,5 +16,4 @@
     <string name="text_search_btn">Buscar</string>
     <string name="hint_search">Digite o texto</string>
     <string name="error_message">Campo não pode ser vazio</string>
-
 </resources>
